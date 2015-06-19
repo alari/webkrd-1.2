@@ -1,0 +1,19 @@
+{
+  "name": "presentation",
+  "version": "0.0.0",
+  "authors": [
+    "Dmitry Kurinskiy <name.alari@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "shower-core": "~1.0.7",
+    "shower-ribbon": "~1.0.11"
+  }
+}
